@@ -1,0 +1,9 @@
+/home/david/revature/week_1/Palindrome/csharp-challenge-dkdawkins/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.deps.json
+/home/david/revature/week_1/Palindrome/csharp-challenge-dkdawkins/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.dll
+/home/david/revature/week_1/Palindrome/csharp-challenge-dkdawkins/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.pdb
+/home/david/revature/week_1/Palindrome/csharp-challenge-dkdawkins/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.csprojAssemblyReference.cache
+/home/david/revature/week_1/Palindrome/csharp-challenge-dkdawkins/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfoInputs.cache
+/home/david/revature/week_1/Palindrome/csharp-challenge-dkdawkins/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfo.cs
+/home/david/revature/week_1/Palindrome/csharp-challenge-dkdawkins/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.csproj.CoreCompileInputs.cache
+/home/david/revature/week_1/Palindrome/csharp-challenge-dkdawkins/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.dll
+/home/david/revature/week_1/Palindrome/csharp-challenge-dkdawkins/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.pdb
