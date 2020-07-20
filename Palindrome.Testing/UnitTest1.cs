@@ -10,11 +10,12 @@ namespace Palindrome.Testing
         [Fact]
         public void Test1()
         {
+          var s = "TestString1";
           var sut = new Class1();
 
-          var actual = sut.Checker();
+          var actual = sut.Checker(s);
 
-          Assert.True(actual);
+          Assert.NotNull(actual);
         }
     }
 }

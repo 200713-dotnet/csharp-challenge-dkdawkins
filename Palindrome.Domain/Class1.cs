@@ -7,13 +7,14 @@ namespace Palindrome.Domain
       //Code taken from TutorialsPoint Palindrome checker, https://www.tutorialspoint.com/Chash-program-to-check-if-a-string-is-palindrome-or-not#:~:text=After%20that%20use%20the%20equals,mean%20the%20string%20is%20Palindrome.
       static void Main(string[] args)
       {
-        Checker();
+        Checker("Test");
       }
 
-      public void Checker() 
+      public void Checker(string string1) 
       {
-        string string1, rev; 
-        string1 = "Malayalam";
+        //string string1, rev; 
+        string rev;
+        //string1 = "Malayalam";
         char[] ch = string1.ToCharArray();
         Array.Reverse(ch);
         rev = new string(ch);

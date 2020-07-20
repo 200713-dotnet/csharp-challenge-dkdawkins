@@ -1,0 +1,4 @@
+/home/david/revature/week_1/Palindrome/csharp-challenge-dkdawkins/Palindrome.Testing/obj/Debug/netcoreapp3.1/Palindrome.Testing.csprojAssemblyReference.cache
+/home/david/revature/week_1/Palindrome/csharp-challenge-dkdawkins/Palindrome.Testing/obj/Debug/netcoreapp3.1/Palindrome.Testing.AssemblyInfoInputs.cache
+/home/david/revature/week_1/Palindrome/csharp-challenge-dkdawkins/Palindrome.Testing/obj/Debug/netcoreapp3.1/Palindrome.Testing.AssemblyInfo.cs
+/home/david/revature/week_1/Palindrome/csharp-challenge-dkdawkins/Palindrome.Testing/obj/Debug/netcoreapp3.1/Palindrome.Testing.csproj.CoreCompileInputs.cache
